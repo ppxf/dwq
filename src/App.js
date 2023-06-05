@@ -21,7 +21,7 @@ function App() {
   }
 
   useEffect(() => {
-    console.log(111,2222)
+    console.log(111)
   },[])
 
   return (
