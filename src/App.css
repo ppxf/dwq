@@ -286,8 +286,6 @@ li {
     top: -10px;
   }
 
-
-
   .no_hover ol li:nth-child(1) {
     -webkit-transform: translateZ(100px) !important;
     width: 200px !important;
